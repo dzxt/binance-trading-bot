@@ -70,7 +70,7 @@ services:
 
   binance-mongo:
     container_name: binance-mongo
-    image: mongo:3.2.20-jessie
+    image: mongo:3.6.23
     restart: unless-stopped
     networks:
       - internal
