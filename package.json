@@ -43,7 +43,7 @@
     "bunyan": "^1.8.15",
     "clean-webpack-plugin": "^4.0.0",
     "compression": "^1.7.4",
-    "config": "^3.3.7",
+    "config": "^3.3.9",
     "cors": "^2.8.5",
     "cron": "^2.4.4",
     "cross-env": "^7.0.3",
